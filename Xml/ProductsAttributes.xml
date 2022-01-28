@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<Products>
+  <Product ProductID="706" Name="HL Road Frame - Red, 58" ProductNumber="FR-R92R-58" Color="Red" StandardCost="1059.3100" ListPrice="1500.0000" Size="58" />
+  <Product ProductID="707" Name="Sport-100 Helmet, Red" ProductNumber="HL-U509-R" Color="Red" StandardCost="13.0800" ListPrice="34.9900" Size="" />
+  <Product ProductID="708" Name="Sport-100 Helmet, Black" ProductNumber="HL-U509" Color="Black" StandardCost="13.0863" ListPrice="34.9900" Size="" />
+  <Product ProductID="709" Name="Mountain Bike Socks, M" ProductNumber="SO-B909-M" Color="White" StandardCost="3.3963" ListPrice="9.5000" Size="M" />
+  <Product ProductID="710" Name="Mountain Bike Socks, L" ProductNumber="SO-B909-L" Color="White" StandardCost="3.3963" ListPrice="9.5000" Size="L" />
+  <Product ProductID="711" Name="Sport-100 Helmet, Blue" ProductNumber="HL-U509-B" Color="Blue" StandardCost="13.0863" ListPrice="34.9900" Size="" />
+  <Product ProductID="712" Name="AWC Logo Cap" ProductNumber="CA-1098" Color="Multi" StandardCost="6.9200" ListPrice="8.9900" Size="" />
+  <Product ProductID="713" Name="Long-Sleeve Logo Jersey, S" ProductNumber="LJ-0192-S" Color="Multi" StandardCost="38.4923" ListPrice="49.9900" Size="S" />
+  <Product ProductID="714" Name="Long-Sleeve Logo Jersey, M" ProductNumber="LJ-0192-M" Color="Multi" StandardCost="38.4923" ListPrice="49.9900" Size="M" />
+  <Product ProductID="715" Name="Long-Sleeve Logo Jersey, L" ProductNumber="LJ-0192-L" Color="Multi" StandardCost="38.4923" ListPrice="49.9900" Size="L" />
+  <Product ProductID="716" Name="Long-Sleeve Logo Jersey, XL" ProductNumber="LJ-0192-X" Color="Multi" StandardCost="38.4923" ListPrice="49.9900" Size="XL" />
+  <Product ProductID="717" Name="HL Road Frame - Red, 62" ProductNumber="FR-R92R-62" Color="Red" StandardCost="868.6342" ListPrice="1431.5000" Size="62" />
+  <Product ProductID="718" Name="HL Road Frame - Red, 44" ProductNumber="FR-R92R-44" Color="Red" StandardCost="868.6342" ListPrice="1431.5000" Size="44" />
+  <Product ProductID="719" Name="HL Road Frame - Red, 48" ProductNumber="FR-R92R-48" Color="Red" StandardCost="868.6342" ListPrice="1431.5000" Size="48" />
+  <Product ProductID="720" Name="HL Road Frame - Red, 52" ProductNumber="FR-R92R-52" Color="Red" StandardCost="868.6300" ListPrice="1431.5000" Size="52" />
+  <Product ProductID="721" Name="HL Road Frame - Red, 56" ProductNumber="FR-R92R-56" Color="Red" StandardCost="868.6342" ListPrice="1431.5000" Size="56" />
+  <Product ProductID="722" Name="LL Road Frame - Black, 58" ProductNumber="FR-R38B-58" Color="Black" StandardCost="204.6251" ListPrice="337.2200" Size="58" />
+  <Product ProductID="723" Name="LL Road Frame - Black, 60" ProductNumber="FR-R38B-60" Color="Black" StandardCost="204.6251" ListPrice="337.2200" Size="60" />
+  <Product ProductID="724" Name="LL Road Frame - Black, 62" ProductNumber="FR-R38B-62" Color="Black" StandardCost="204.6251" ListPrice="337.2200" Size="62" />
+  <Product ProductID="725" Name="LL Road Frame - Red, 44" ProductNumber="FR-R38R-44" Color="Red" StandardCost="187.1571" ListPrice="337.2200" Size="44" />
+  <Product ProductID="726" Name="LL Road Frame - Red, 48" ProductNumber="FR-R38R-48" Color="Red" StandardCost="187.1571" ListPrice="337.2200" Size="48" />
+  <Product ProductID="727" Name="LL Road Frame - Red, 52" ProductNumber="FR-R38R-52" Color="Red" StandardCost="187.1571" ListPrice="337.2200" Size="52" />
+  <Product ProductID="728" Name="LL Road Frame - Red, 58" ProductNumber="FR-R38R-58" Color="Red" StandardCost="187.1571" ListPrice="337.2200" Size="58" />
+  <Product ProductID="729" Name="LL Road Frame - Red, 60" ProductNumber="FR-R38R-60" Color="Red" StandardCost="187.1571" ListPrice="337.2200" Size="60" />
+  <Product ProductID="730" Name="LL Road Frame - Red, 62" ProductNumber="FR-R38R-62" Color="Red" StandardCost="187.1571" ListPrice="337.2200" Size="62" />
+  <Product ProductID="731" Name="ML Road Frame - Red, 44" ProductNumber="FR-R72R-44" Color="Red" StandardCost="352.1394" ListPrice="594.8300" Size="44" />
+  <Product ProductID="732" Name="ML Road Frame - Red, 48" ProductNumber="FR-R72R-48" Color="Red" StandardCost="352.1394" ListPrice="594.8300" Size="48" />
+  <Product ProductID="733" Name="ML Road Frame - Red, 52" ProductNumber="FR-R72R-52" Color="Red" StandardCost="352.1394" ListPrice="594.8300" Size="52" />
+  <Product ProductID="734" Name="ML Road Frame - Red, 58" ProductNumber="FR-R72R-58" Color="Red" StandardCost="352.1394" ListPrice="594.8300" Size="58" />
+  <Product ProductID="735" Name="ML Road Frame - Red, 60" ProductNumber="FR-R72R-60" Color="Red" StandardCost="352.1394" ListPrice="594.8300" Size="60" />
+  <Product ProductID="736" Name="LL Road Frame - Black, 44" ProductNumber="FR-R38B-44" Color="Black" StandardCost="204.6251" ListPrice="337.2200" Size="44" />
+  <Product ProductID="737" Name="LL Road Frame - Black, 48" ProductNumber="FR-R38B-48" Color="Black" StandardCost="204.6251" ListPrice="337.2200" Size="48" />
+  <Product ProductID="738" Name="LL Road Frame - Black, 52" ProductNumber="FR-R38B-52" Color="Black" StandardCost="204.6251" ListPrice="337.2200" Size="52" />
+  <Product ProductID="739" Name="HL Mountain Frame - Silver, 42" ProductNumber="FR-M94S-42" Color="Silver" StandardCost="747.2002" ListPrice="1364.5000" Size="42" />
+  <Product ProductID="740" Name="HL Mountain Frame - Silver, 44" ProductNumber="FR-M94S-44" Color="Silver" StandardCost="706.8110" ListPrice="1364.5000" Size="44" />
+  <Product ProductID="741" Name="HL Mountain Frame - Silver, 48" ProductNumber="FR-M94S-52" Color="Silver" StandardCost="706.8110" ListPrice="1364.5000" Size="48" />
+  <Product ProductID="742" Name="HL Mountain Frame - Silver, 46" ProductNumber="FR-M94S-46" Color="Silver" StandardCost="747.2002" ListPrice="1364.5000" Size="46" />
+  <Product ProductID="743" Name="HL Mountain Frame - Black, 42" ProductNumber="FR-M94B-42" Color="Black" StandardCost="739.0410" ListPrice="1349.6000" Size="42" />
+  <Product ProductID="744" Name="HL Mountain Frame - Black, 44" ProductNumber="FR-M94B-44" Color="Black" StandardCost="699.0928" ListPrice="1349.6000" Size="44" />
+  <Product ProductID="745" Name="HL Mountain Frame - Black, 48" ProductNumber="FR-M94B-48" Color="Black" StandardCost="699.0928" ListPrice="1349.6000" Size="48" />
+</Products>
